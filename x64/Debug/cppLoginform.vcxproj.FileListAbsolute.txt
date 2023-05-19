@@ -1,0 +1,7 @@
+C:\Users\User\Git\cppLoginform\x64\Debug\cppLoginform.vcxproj.AssemblyReference.cache
+C:\Users\User\Git\cppLoginform\x64\Debug\cppLoginform.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Git\cppLoginform\x64\Debug\cppLoginform.MyForm.resources
+C:\Users\User\Git\cppLoginform\x64\Debug\cppLoginform.vcxproj.GenerateResource.cache
+C:\Users\User\Git\cppLoginform\x64\Debug\cppLoginform.exe
+C:\Users\User\Git\cppLoginform\x64\Debug\cppLoginform.MyForm1.resources
+C:\Users\User\Git\cppLoginform\x64\Debug\cppLoginform.MyForm2.resources
